@@ -8,17 +8,8 @@ Random Forest And XGBoost Model Trees
                151 32 Södertälje 
                Stockholm
                Sweden 
-   -- Donor:   Tony Lindgren (tony@dsv.su.se) and Jonas Biteus (jonas.biteus@scania.com)
+3. Data Donor:   Tony Lindgren (tony@dsv.su.se) and Jonas Biteus (jonas.biteus@scania.com)
    -- Date:    September, 2016
- 
-3. Past Usage:
-   Industrial Challenge 2016 at The 15th International Symposium on Intelligent Data Analysis (IDA) 
-   -- Results:         
-     The top three contestants                                                | Score | Number of Type 1 faults | Number of Type 2 faults
-     ------------------------------------------------------------------------------------------------------------------------------------
-     Camila F. Costa and Mario A. Nascimento                                  | 9920  | 542                     | 9
-     Christopher Gondek, Daniel Hafner and Oliver R. Sampson                  | 10900 | 490                     | 12
-     Sumeet Garnaik, Sushovan Das, Rama Syamala Sreepada and Bidyut Kr. Patra | 11480 | 398                     | 15
 
 4. Relevant Information:
    -- Introduction
